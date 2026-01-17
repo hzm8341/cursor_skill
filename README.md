@@ -85,7 +85,13 @@ cp -r cursor_skill/* ~/.config/opencode/skill/
 
 ## 更多信息
 
-详细使用指南请参考：[Cursor Skills 使用指南](https://github.com/hzm8341/opencode/blob/main/docs/Cursor_Skills_使用指南_v1.0_20250116_AI.md)
+详细使用指南请参考：[Cursor Skills 使用指南](Cursor_Skills_使用指南_v1.0_20250116_AI.md)
+
+该指南包含：
+- 详细的配置方法（符号链接、配置文件、复制）
+- 跨设备同步方案（Git、云存储、自动检测）
+- 验证配置的方法
+- 常见问题解答（FAQ）
 
 ## 许可证
 
